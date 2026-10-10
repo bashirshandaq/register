@@ -1,0 +1,9 @@
+{
+  "owner": {
+   "username": "github-username",
+     "email": "[email protected]"
+  },
+ "records": {
+   "TXT": "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCiFcangnoFzUVb+NqTAY1mFvppAtofJMkcwinsTSdCNLhM4jBImCUOSe1fBk32L3suhsOhymp+5FMdE+4xlZDxv/wouYNvP9zqb/D3G/TRdWQkRq7/6BDfVMY9b0NYjOorCErHUcpyP/yBoNda88JInFznGv32GuqkKTVTXMHHKQIDAQAB"
+  }
+}
